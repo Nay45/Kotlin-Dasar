@@ -35,3 +35,39 @@ Output Inline Function
 Output Kotlin Dasar
 
 ![Kotlin Dasar](https://user-images.githubusercontent.com/101272430/199630890-eef408f4-9fcd-454a-a658-7c6e34a0a78e.jpeg)
+
+Output Label
+
+![Label](https://user-images.githubusercontent.com/101272430/199631913-4df6a568-9a70-47dd-9c3b-82fd001ff8dc.jpeg)
+
+Output Lambda_Expression
+
+![Lambda_Expression](https://user-images.githubusercontent.com/101272430/199631894-fe843df9-3b83-4de5-8a82-59c3a0eda758.jpeg)
+
+Output Math
+
+![Math](https://user-images.githubusercontent.com/101272430/199631896-086363a9-f782-4bdf-b206-380cc2cc3f0e.jpeg)
+
+Output Package
+
+![Package](https://user-images.githubusercontent.com/101272430/199631897-4887c1ef-7b65-4386-96d3-5db177543790.jpeg)
+
+Output Range
+
+![Range](https://user-images.githubusercontent.com/101272430/199631899-896234ed-f2ff-4531-9188-d8077e76c176.jpeg)
+
+Output Tail Recursive
+
+![Tail Recursive](https://user-images.githubusercontent.com/101272430/199631901-84dbd74c-71b0-47ca-a827-41f8cee377de.jpeg)
+
+Output Variable Constant
+
+![Variable Constant](https://user-images.githubusercontent.com/101272430/199631904-6f41b270-8a44-4041-97c6-a66c4c5d958c.jpeg)
+
+Output When
+
+![When](https://user-images.githubusercontent.com/101272430/199631908-5c019f6f-a6ac-4b2b-8460-d2236eb34c59.jpeg)
+
+Output While
+
+![While](https://user-images.githubusercontent.com/101272430/199631910-b3f2bcab-a903-4d91-882c-aa9dacb0f8b3.jpeg)
