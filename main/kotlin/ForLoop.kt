@@ -10,11 +10,11 @@ fun main(){
     }
 
     // For Range
-    for (value in 0..100) {
+    for (value in 0..10) {
         println(value)
     }
 
-    for (value in 1000 downTo 0 step 5) {
+    for (value in 10 downTo 0 step 5) {
         println(value)
     }
 
